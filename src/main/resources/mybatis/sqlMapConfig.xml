@@ -1,0 +1,14 @@
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+
+	<!-- 别名 -->
+	<typeAliases>
+		<package name="com.wen.test.vo" />
+		<!-- 为某个类起别名 -->
+		<!-- 扫描com.wen.test.vo包下的类 别名好像是首字母小写的 -->
+
+	</typeAliases>
+
+
+</configuration>
